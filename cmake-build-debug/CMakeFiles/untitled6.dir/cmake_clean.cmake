@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/untitled6.dir/main.cpp.obj"
+  "CMakeFiles/untitled6.dir/main.cpp.obj.d"
   "libuntitled6.dll.a"
   "untitled6.exe"
   "untitled6.exe.manifest"
